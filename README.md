@@ -2,7 +2,7 @@
 
 **NAME**: André
 
-**STACK**: PHP
+**STACK**: PHP & JavaScript
 
 **AGE**: 18
 

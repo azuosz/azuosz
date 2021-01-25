@@ -1,4 +1,4 @@
-<h1 align="center">André</h1>
+<h1 align="center">Hello there</h1>;
 
 **NAME**: André aka *Azuos*
 
@@ -6,4 +6,4 @@
 
 **AGE**: 18
 
-I currently live in *Rio de Janeiro*, *Brazil*
+I currently live in _Rio de Janeiro_, _Brazil_ and I'm learning *PHP*

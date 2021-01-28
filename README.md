@@ -2,7 +2,7 @@
 
 **NAME**: André aka *Azuos*
 
-**STACK**: PHP & JavaScript
+**STACK**: PHP & Python
 
 **AGE**: 18
 

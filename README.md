@@ -1,8 +1,8 @@
-<h1 align="center">Hello there</h1>
+<h1 align="center">Hello there 🤠<h1>
 
 **NAME**: André aka *Azuos*
 
-**STACK**: PHP & Python
+**STACK**: Python
 
 **AGE**: 18
 

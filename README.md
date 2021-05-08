@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 🤠<h1>
 
-**NAME**: André aka *Azuos*
+**NAME**: André aka Azuos
 
 **STACK**: Python
 

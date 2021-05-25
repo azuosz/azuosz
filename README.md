@@ -2,7 +2,7 @@
 
 **NAME**: André aka *Azuos*
 
-**STACK**: Python
+**STACK**: Python & C#
 
 **AGE**: 18
 
